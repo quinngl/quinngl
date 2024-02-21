@@ -19,7 +19,7 @@
 
 <p align="center"> 
   <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="40px" height="40px" alt="java"></a>
+ <a href="https://emoji.gg/emoji/9794-python"><img src="https://emoji.gg/emoji/9794-python.png" width="40px" height="40px" alt="python"></a>
  </a>
   <a href="https://www.w3schools.com/typescript/" target="_blank"> 
   <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
