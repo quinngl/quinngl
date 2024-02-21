@@ -19,7 +19,7 @@
 
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"> 
-  <a href="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html"><img src="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html.png" width="40px" height="40px" alt="RStudio"></a>
+  <a href="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/rstudio-icon.png" width="40px" height="40px" alt="RStudio"></a>
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
