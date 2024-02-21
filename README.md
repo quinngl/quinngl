@@ -19,16 +19,16 @@
 
 <p align="center"> 
   <a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"> 
-  <a href="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/rstudio-icon.png" width="40px" height="40px" alt="RStudio"></a>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/rstudio-icon.png" width="40px" height="40px" alt="RStudio"></a>
   </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/mysql/mysql.svg" alt="mySQL" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.anaconda.com/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/csharp" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg" width="40" height="40"/>
   </a>
  
 </p>
