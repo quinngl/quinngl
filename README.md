@@ -18,11 +18,8 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/9794-python"><img src="https://emoji.gg/emoji/9794-python.png" width="40px" height="40px" alt="python"></a>
- </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="40px" height="40px" alt="TypeScript"></a>
+  <a href="https://en.wikipedia.org/wiki/RStudio" target="_blank"> 
+  <a href="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html"><img src="https://www.iconarchive.com/show/papirus-apps-icons-by-papirus-team/rstudio-icon.html.png" width="40px" height="40px" alt="RStudio"></a>
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
